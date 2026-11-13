@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+    <name>My Dashboard</name>
+    <version>1.0</version>
+    <author>Your Name</author>
+    <id>dashboard_launcher</id>
+    <menus>
+        <menu type="json" dynamic="true">menu.json</menu>
+    </menus>
+</extension>

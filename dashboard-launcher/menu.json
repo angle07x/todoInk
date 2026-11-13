@@ -1,0 +1,9 @@
+{
+    "items": [
+        {
+            "name": "Update Dashboard",
+            "priority": 0,
+            "action": "/mnt/us/extensions/dashboard/get_dashboard.sh"
+        }
+    ]
+}
